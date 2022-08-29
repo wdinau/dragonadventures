@@ -1,0 +1,10 @@
+{
+    "name": "Dysuva",
+    "size": "Medium",
+    "defence": 2,
+    "attack": 20,
+    "speed": "3 Flight, 43 Walk",
+    "health": 500,
+    "artist": "Stood_04",
+    "image_url": "https://static.wikia.nocookie.net/dragon-adventures/images/4/4a/Dysuva_Icon.png/revision/latest?cb=20211009063908"
+}
