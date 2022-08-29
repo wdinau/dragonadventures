@@ -1,0 +1,10 @@
+{
+    "name": "Aranga",
+    "size": "Medium",
+    "defence": 3,
+    "attack": 20,
+    "speed": "4 Flight, 26 Walk",
+    "health": 300,
+    "artist": "PinkVVitch",
+    "image_url": "https://static.wikia.nocookie.net/dragon-adventures/images/d/d2/Aranga_Icon.png/revision/latest?cb=20211009063905"
+}
