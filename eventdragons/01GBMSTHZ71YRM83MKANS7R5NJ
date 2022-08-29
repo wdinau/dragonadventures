@@ -1,5 +1,6 @@
 {
     "name": "Hexalios",
+    "description": "The Hexalios is an event dragon that originally released in part one of the 2020 Solstice Event with a cap. It was obtainable alongside the Solarizon, which released in part two. It was rereleased in the 2021 Solstice Event alongside the Solarizon and the Volkumos with no cap.",
     "size": "Huge",
     "defence": 0,
     "attack": 10,

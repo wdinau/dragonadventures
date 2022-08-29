@@ -1,5 +1,6 @@
 {
     "name": "Aranga",
+    "description": "The Aranga is an event dragon that originally released in part two of the 2020 Easter Event with a cap alongside the Skyrix. It was rereleased in the 2021 Easter Event alongside the Skyrix with no cap. It was rereleased in the 2022 Easter Event alongside the Ayatrice, Falugeis, and the Skyrix.",
     "size": "Medium",
     "defence": 3,
     "attack": 20,
