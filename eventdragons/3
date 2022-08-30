@@ -4,8 +4,8 @@
     "size": "Huge",
     "defence": 0,
     "attack": 10,
-    "speed": "6 Flight, 18 Walk",
+    "speed": "6 Flight, 18 Walk - changed to 8 Flight",
     "health": 400,
     "artist": "Brippu",
-    "image_url": "https://static.wikia.nocookie.net/dragon-adventures/images/b/b2/Hexalios_Icon.png/revision/latest?cb=20211009063909"
+    "image_url": "https://static.wikia.nocookie.net/dragon-adventures/images/c/c4/Hexalios.png/revision/latest/scale-to-width-down/250?cb=20220512234812"
 }
