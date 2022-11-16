@@ -1,0 +1,11 @@
+{
+    "name": "CrazyTokenDragon",
+    "description": "A total mess up dragon, see if it can be minted",
+    "size": "Huge",
+    "defence": 0,
+    "attack": 10,
+    "speed": "6 Flight, 14 Walk - changed to 8 Flight",
+    "health": 400,
+    "artist": "Sherry",
+    "image_url": "https://image.shutterstock.com/shutterstock/photos/95609179/display_1500/stock-photo-cartoon-crazy-dragon-95609179.jpg"
+}
